@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Release\MyLittleCreatures.exe.config
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Release\MyLittleCreatures.exe.manifest
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Release\MyLittleCreatures.application
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Release\MyLittleCreatures.exe
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Release\MyLittleCreatures.pdb
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Release\MyLittleCreatures.exe.manifest
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Release\MyLittleCreatures.application
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Release\MyLittleCreatures.exe
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Release\MyLittleCreatures.pdb

@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.exe
+c:\users\user\documents\visual studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.pdb
+c:\users\user\documents\visual studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.exe
+c:\users\user\documents\visual studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.exe.config
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.exe
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.pdb
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.exe
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.pdb
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.exe.manifest
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\bin\Debug\MyLittleCreatures.application
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.exe.manifest
+D:\Documents\Visual Studio 2013\Projects\MyLittleCreatures\MyLittleCreatures\obj\Debug\MyLittleCreatures.application

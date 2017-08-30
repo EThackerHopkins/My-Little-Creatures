@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MyLittleCreatures.exe" version="1.0.0.0" publicKeyToken="5a6d006b9175b009" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MyLittleCreatures" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MyLittleCreatures.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyLittleCreatures.exe" size="22488">
+      <assemblyIdentity name="MyLittleCreatures" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>m2mmTI2EqJZ7VdBgC6rzsD+mYQuRUSUfXDj7AewtxZg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MyLittleCreatures.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-29HL7RC\Emma" issuerKeyHash="73c5501adea767babdd03384f1a7c0df91962bee" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Blr4bfcFKs9DTYLBFe+Nk1gGlxVMjXCx5oIBD29M9h0=</DigestValue></Reference></SignedInfo><SignatureValue>FfM8zBDiQpWlB38BYUoysDJgW6vcVnRWVVsGklgJzLNeu10VuVSlSPCyKtb3zfLQA8sHDwOS6Zecnc/09qdroaxnis/ZVY7/NU67vRcEXa9gIgrpjc7S6FDsyBIKOpMddm+GLw/ZLRhc9Z53An1xjiP0LjULbf2RoHo7EYL0Hd4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rOzDM2/FvsgC5r+BtbYaDiWAB4YSvqoDhu//qjXoNLwcFBqeVufCj8E3TSoi7En66T74lbRgFHschlJdlVZ9SIqYeALo3egbdWfPFh/yRmiN94eQlUdxiOFT34cM79hlE5zEWjR4DT6zQeCl+/CmJURlAPuCCyRlzGa4WMZrtxE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1df64c6f0f0182e6b1708d4c15970658938def15c1824d43cf2a05f76df85a06" Description="" Url=""><as:assemblyIdentity name="MyLittleCreatures.exe" version="1.0.0.0" publicKeyToken="5a6d006b9175b009" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-29HL7RC\Emma</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>o+AS1T4uPDZiTtBrYGlqCjYvW/rmsdy6pAhpPcYEvuI=</DigestValue></Reference></SignedInfo><SignatureValue>ekv+OqK8g1QokrTInzOld+P/gMXD/x64oLSrFzKBuykXkgfiqV8I90IsAokxN82HPJYQhq9JQJZ04xibIA7OPgUvngWBdeZE3CWmKTtnx3mXqiecEYNb+ZFw99CgPGHUXays6SXdW0W5eqYaCSw0Bld/yDN0D+ZIgCoWDTs1jew=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rOzDM2/FvsgC5r+BtbYaDiWAB4YSvqoDhu//qjXoNLwcFBqeVufCj8E3TSoi7En66T74lbRgFHschlJdlVZ9SIqYeALo3egbdWfPFh/yRmiN94eQlUdxiOFT34cM79hlE5zEWjR4DT6zQeCl+/CmJURlAPuCCyRlzGa4WMZrtxE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQbZ0Iv9i9XKRPhEIM6G+qjDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtADIAOQBIAEwANwBSAEMAXABFAG0AbQBhMB4XDTE3MDgzMDE1MzU1MloXDTE4MDgzMDIxMzU1MlowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQAyADkASABMADcAUgBDAFwARQBtAG0AYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArOzDM2/FvsgC5r+BtbYaDiWAB4YSvqoDhu//qjXoNLwcFBqeVufCj8E3TSoi7En66T74lbRgFHschlJdlVZ9SIqYeALo3egbdWfPFh/yRmiN94eQlUdxiOFT34cM79hlE5zEWjR4DT6zQeCl+/CmJURlAPuCCyRlzGa4WMZrtxECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBfM02KMAjVy4sfo6gOzpMip2fzn8XbgCtVxmixbyHQEByIW1xuMGW3dux17dIeTjKi/t4Mo1CHIqSIS/H/17w7w4KU7B7GGSvCgNMoBCi7VVZUdEg1JPHGjmptBjFT+nWPhvS0oKSn+URffl4QA8ASGnXah1FiHrCunL32BpD2MA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
